@@ -1,12 +1,15 @@
 :root {
     /* WIDTHS */
     --inner-width: min(calc(100% - 32px), 1312px);
+    /* SPACING */
+    --spacing: 96px;
     /* COLORS */
     --header-font: #fff;
     --btn-color: #F49E43;
     --dark-font: #333;
     --light-font: #fff;
     --bg-light: #fff;
+    --bg-dark-light: #F5F1EE;
     /* TRANSITIONS */
     --transition: all 0.3s ease;
 }
