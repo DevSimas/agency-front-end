@@ -10,6 +10,7 @@
     --light-font: #fff;
     --bg-light: #fff;
     --bg-dark-light: #F5F1EE;
+    --border-color: #F7F3ED;
     /* TRANSITIONS */
     --transition: all 0.3s ease;
 }
